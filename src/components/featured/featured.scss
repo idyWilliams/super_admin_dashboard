@@ -1,0 +1,21 @@
+.featured{
+    flex:3;
+    box-shadow: -1px 3px 5px 0px rgba(237, 220, 220, 0.75);
+  -webkit-box-shadow: -1px 3px 5px 0px rgba(237, 220, 220, 0.75);
+  -moz-box-shadow: -1px 3px 5px 0px rgba(237, 220, 220, 0.75);
+  border-radius: 10px;
+//   height: 100px;
+  padding: 10px;
+  .top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: gray;
+
+    .title{
+        font-size: 16px;
+    }
+  }
+
+
+}
